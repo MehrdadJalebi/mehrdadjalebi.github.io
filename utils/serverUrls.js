@@ -1,6 +1,6 @@
 const serverUrls = () => {
 	return {
-		baseUrl: "https://restcountries.com/v2",
+		baseUrl: "https://restcountries.com/v3.1",
 	}
 }
 
