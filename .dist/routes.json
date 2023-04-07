@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/mehrdad/countriesList/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fdda0e3e"
+  },
+  {
+    "name": "code",
+    "path": "/:code",
+    "component": "/home/mehrdad/countriesList/pages/_code.vue",
+    "chunkName": "pages/_code",
+    "_name": "_fa44ac4a"
+  }
+]

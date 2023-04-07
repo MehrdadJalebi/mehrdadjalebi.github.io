@@ -1,0 +1,17 @@
+{
+  "CountryCard": {
+    "description": "Auto imported from components/CountryCard.vue"
+  },
+  "MainHeader": {
+    "description": "Auto imported from components/MainHeader.vue"
+  },
+  "RegionsFilter": {
+    "description": "Auto imported from components/RegionsFilter.vue"
+  },
+  "SearchFilter": {
+    "description": "Auto imported from components/SearchFilter.vue"
+  },
+  "SortDropdown": {
+    "description": "Auto imported from components/SortDropdown.vue"
+  }
+}
