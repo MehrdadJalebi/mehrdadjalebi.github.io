@@ -28,7 +28,7 @@ export default {
   methods: {
     update() {
       this.$emit('loading')
-      const sortedCountries = [...this.filteredCountries]
+      const sortedCountries = this.filteredCountries
       if (this.selectedSortType === 'Population') {
         sortedCountries.sort((a, b) => b.population - a.population);
       } else if (this.selectedSortType === 'Country Name') {
