@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-For seeing live demo, check out the [snazzy-griffin-a4a759.netlify.app/](https://snazzy-griffin-a4a759.netlify.app/).
+For seeing live demo, check out the [snazzy-griffin-a4a759.netlify.app](https://snazzy-griffin-a4a759.netlify.app/).
 
 ## Build Setup
 
