@@ -3,7 +3,7 @@
     <b-container>
       <b-row>
         <b-col xl="5" lg="5" md="6" sm="12" cols="12">
-          <search-filter :countries="countries" @filter="update($event)" @loading="loading = true" />
+          <search-filter :countries="filteredCountries" @filter="update($event)" @loading="loading = true" />
         </b-col>
         <b-col xl="7" lg="7" md="6" sm="12" cols="12" class="d-flex flex-row flex-md-row-reverse mt-3 mt-md-0 pl-2">
           <regions-filter :regions="regions" @update="filterByRegion($event)" @loading="loading = true"></regions-filter>

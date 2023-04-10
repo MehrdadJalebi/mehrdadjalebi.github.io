@@ -55,8 +55,8 @@ export default {
       compact: true,
      },
   },
-  buildDir: '.dist',
-  generate: { dir: '.dist' },
+  buildDir: 'dist',
+  generate: { dir: 'dist' },
   extend(config, ctx) {},
   babel: { compact: true }
 }
